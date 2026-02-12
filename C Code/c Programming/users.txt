@@ -1,0 +1,4 @@
+abiola abiola 1000024444 1000172
+alice alicepass 1000026161 800
+bob bobpass 1000026162 1200
+awwal walli 1000000953 100496
